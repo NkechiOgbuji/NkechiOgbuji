@@ -1,12 +1,15 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Nkechi+Queeneth+Ogbuji;Entry-Level+DevOps+%26+Cloud+Security+Engineer;Learning+by+Building,+Not+Just+Watching&font=Fira+Code&size=22&pause=1200&color=2F80ED&width=600" />
-</p>## # 👋 Hello, I’m Nkechi Queeneth Ogbuji
-
-I’m an entry-level DevOps and Cloud Security engineer focused on learning by building and understanding how real systems work. I use Git and GitHub daily to manage projects with feature branches, clean commits, and proper merges, and I spend time exploring real-world repositories to learn how production code is structured and maintained.
-
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&font=Fira+Code&size=20&pause=1000&color=555555&width=200" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%20Hello%2C%20I%E2%80%99m%20Nkechi%20Queeneth%20Ogbuji&font=Fira+Code&size=26&pause=1200&color=FFD700&width=700"
+    alt="Hello Nkechi Queeneth Ogbuji"
+  />
 </p>
+
+
+**DevOps | Cloud Security | Learning by Building**
+
+## About Me
+I’m an entry-level DevOps and Cloud Security engineer focused on learning by building and understanding how real systems work. I use Git and GitHub daily to manage projects with feature branches, clean commits, and proper merges, and I spend time exploring real-world repositories to learn how production code is structured and maintained.
 I’m intentional about learning the right way — not just watching tutorials, but practicing version control, reading other people’s code, and understanding workflows used by real teams. This GitHub reflects my hands-on learning process, experiments, and steady progress as I grow my DevOps skill set.
 
 ## Tools & Skills
