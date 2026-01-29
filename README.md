@@ -6,7 +6,7 @@ I’m an entry-level DevOps and Cloud Security engineer focused on learning by b
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&font=Fira+Code&size=20&pause=1000&color=555555&width=200" />
-</p>## About Me
+</p>
 I’m intentional about learning the right way — not just watching tutorials, but practicing version control, reading other people’s code, and understanding workflows used by real teams. This GitHub reflects my hands-on learning process, experiments, and steady progress as I grow my DevOps skill set.
 
 ## Tools & Skills
