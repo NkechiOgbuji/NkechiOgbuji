@@ -1,32 +1,28 @@
-## Hello, I'm Nkechi Queeneth Ogbuji👋
+## # 👋 Hello, I’m Nkechi Queeneth Ogbuji
 
-**DevOps | Cloud Security | Learning by Building**
-## I’m an entry-level DevOps and Cloud Security engineer focused on learning through hands-on projects.I use Git and GitHub daily for version control, feature branching, clean commits, and collaborative workflows.
-I enjoy exploring real-world repositories to understand how production systems are structured and maintained.
+Welcome to my GitHub profile.
 
-## Skills & Tools
-- Git & GitHub  
-- Linux fundamentals  
-- Cloud & DevOps basics  
-- CI/CD concepts  
-- Secure development practices
+I’m an entry-level DevOps and Cloud Security engineer focused on learning by building and understanding how real systems work. I use Git and GitHub daily to manage projects with feature branches, clean commits, and proper merges, and I spend time exploring real-world repositories to learn how production code is structured and maintained.
 
-  ## Currently Learning
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&font=Fira+Code&size=20&pause=1000&color=555555&width=200" />
+</p>## About Me
+I’m intentional about learning the right way — not just watching tutorials, but practicing version control, reading other people’s code, and understanding workflows used by real teams. This GitHub reflects my hands-on learning process, experiments, and steady progress as I grow my DevOps skill set.
+
+## Tools & Skills
+- Git & GitHub (branching, commits, merges)
+- Linux fundamentals
+- Cloud & DevOps foundations
+- CI/CD concepts
+- Secure development basics
+
+## Currently Learning
 - CI/CD pipelines  
 - Cloud infrastructure fundamentals  
-- DevOps best practices
-## Goal
-To grow into a DevOps engineer who builds reliable, secure systems and collaborates effectively with teams.
-**NkechiOgbuji/NkechiOgbuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- DevOps best practices and workflows  
 
-Here are some ideas to get you started:
+## My Goal
+To grow into a DevOps engineer who builds reliable and secure systems, understands both development and operations, and contributes meaningfully to team success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
