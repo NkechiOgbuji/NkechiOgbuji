@@ -1,6 +1,6 @@
-## # 👋 Hello, I’m Nkechi Queeneth Ogbuji
-
-Welcome to my GitHub profile.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Nkechi+Queeneth+Ogbuji;Entry-Level+DevOps+%26+Cloud+Security+Engineer;Learning+by+Building,+Not+Just+Watching&font=Fira+Code&size=22&pause=1200&color=2F80ED&width=600" />
+</p>## # 👋 Hello, I’m Nkechi Queeneth Ogbuji
 
 I’m an entry-level DevOps and Cloud Security engineer focused on learning by building and understanding how real systems work. I use Git and GitHub daily to manage projects with feature branches, clean commits, and proper merges, and I spend time exploring real-world repositories to learn how production code is structured and maintained.
 
