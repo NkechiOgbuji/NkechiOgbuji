@@ -1,31 +1,76 @@
 <p>
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%20Hello%2C%20I%E2%80%99m%20Nkechi%20Queeneth%20Ogbuji&font=Fira+Code&size=26&pause=1200&color=FFD700&width=700"
+    src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%20Hello%2C%20I%E2%80%99m%20Nkechi%20Queeneth%20Ogbuji&font=Fira+Code&size=26&pause=2500&color=FFFFFF&width=700"
     alt="Hello Nkechi Queeneth Ogbuji"
   />
 </p>
 
+---
 
-**DevOps | Cloud Security | Learning by Building**
+<sub>🟡 <strong>DevOps | Cloud Security | Learning by Building</strong></sub>
 
-## About Me
-I’m an entry-level DevOps and Cloud Security engineer focused on learning by building and understanding how real systems work. I use Git and GitHub daily to manage projects with feature branches, clean commits, and proper merges, and I spend time exploring real-world repositories to learn how production code is structured and maintained.
-I’m intentional about learning the right way — not just watching tutorials, but practicing version control, reading other people’s code, and understanding workflows used by real teams. This GitHub reflects my hands-on learning process, experiments, and steady progress as I grow my DevOps skill set.
+<br/>
 
-## Tools & Skills
+<img src="https://komarev.com/ghpvc/?username=NkechiOgbuji&label=Profile%20Views&color=blue&style=flat" />
+
+<br/>
+
+📍 **Location:** Nigeria
+
+---
+
+🟡 **About Me**
+---
+
+
+I’m an entry-level DevOps and Cloud Security engineer focused on learning by building and understanding how real systems work.  
+I use Git and GitHub daily with feature branches, clean commits, and proper merges, and I explore real-world repositories to understand how production code is structured and maintained.
+
+I’m intentional about learning the right way — not just watching tutorials, but practicing version control, reading other people’s code, and understanding workflows used by real teams.
+
+---
+
+🟡 **Tools & Skills**
+---
+
 - Git & GitHub (branching, commits, merges)
 - Linux fundamentals
 - Cloud & DevOps foundations
 - CI/CD concepts
 - Secure development basics
 
-## Currently Learning
+---
+
+🟡 **Currently Learning**
+---
+
 - CI/CD pipelines  
 - Cloud infrastructure fundamentals  
-- DevOps best practices and workflows  
+- DevOps best practices  
 
-## My Goal
-To grow into a DevOps engineer who builds reliable and secure systems, understands both development and operations, and contributes meaningfully to team success.
+---
+
+🟡 **Certifications**
+---
+
+- AWS Cloud Practitioner *(in progress)*
+- DevOps Foundations *(learning)*
+- Cloud & Linux Fundamentals
+
+---
+
+🟡 **Featured Projects**
+---
+
+- **CodeTrack** — Hands-on DevOps learning repository covering Git workflows, branching, merges, and GitHub best practices.
+
+---
+
+🟡 **My Goal**
+---
+
+To grow into a DevOps engineer who builds reliable, secure systems and contributes meaningfully to real engineering teams.
+
 
 
 
