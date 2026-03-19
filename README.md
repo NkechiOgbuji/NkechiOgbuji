@@ -38,54 +38,42 @@ LinkedIn: www.linkedin.com/in/nkechiogbuji
 ---
 
 
-I’m an entry-level DevOps and Cloud Security engineer focused on learning by building and understanding how real systems work.  
-I use Git and GitHub daily with feature branches, clean commits, and proper merges, and I explore real-world repositories to understand how production code is structured and maintained.
+I am a DevOps and Cloud Engineer with hands-on experience designing and deploying secure, scalable AWS architectures. I have built and deployed real-world projects using EC2, RDS, Application Load Balancers, and Terraform, following production-level best practices.
 
-I’m intentional about learning the right way — not just watching tutorials, but practicing version control, reading other people’s code, and understanding workflows used by real teams.
+My focus is on infrastructure automation, cloud security, and building reliable systems. I actively apply version control best practices using Git and GitHub and continuously improve by working on real projects rather than just tutorials.
+
+I am also exploring Agentic AI and its role in automating DevOps workflows and enhancing cloud operations.
+
+Currently open to DevOps and Cloud Engineering opportunities.
 
 ---
 
-🟡 **Tools & Skills**
----
+🟡 ## 🛠 Tools & Skills
 
-- Git & GitHub (branching, commits, merges)
-- Linux fundamentals
-- Cloud & DevOps foundations
+**Cloud & Infrastructure**
+- AWS (EC2, RDS, VPC, ALB, Subnets, Security Groups)
+- Infrastructure as Code (Terraform)
+- Azure (VMs, networking basics, Terraform deployment)
+  
+**DevOps & Automation**
 - CI/CD concepts
-- Secure development basics
+- GitHub Actions (basic)
+- Agentic AI for DevOps automation (learning & applying)
 
----
+**Backend & Systems**
+- Node.js (Express)
+- Nginx (reverse proxy)
+- Linux (Ubuntu, server management)
 
-🟡 **Currently Learning**
----
+**Version Control**
+- Git & GitHub (branching, commits, pull requests, merges)
 
-- CI/CD pipelines  
-- Cloud infrastructure fundamentals  
-- DevOps best practices  
+**Databases**
+- MySQL (RDS, schema creation, connectivity)
 
----
-
-🟡 **Certifications**
----
-
-- AWS Cloud Practitioner *(in progress)*
-- DevOps Foundations *(learning)*
-- Cloud & Linux Fundamentals
-
----
-
-🟡 **Featured Projects**
----
-
-- **CodeTrack** — Hands-on DevOps learning repository covering Git workflows, branching, merges, and GitHub best practices.
-
----
-
-🟡 **My Goal**
----
-
-To grow into a DevOps engineer who builds reliable, secure systems and contributes meaningfully to real engineering teams.
-
+**Core Knowledge**
+- Networking fundamentals (public/private subnets, routing, NAT, bastion)
+- Cloud security best practices (least privilege, SG chaining)
 
 
 
