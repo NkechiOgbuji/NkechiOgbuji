@@ -1,19 +1,34 @@
-<p>
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%20Hello%2C%20I%E2%80%99m%20Nkechi%20Queeneth%20Ogbuji&font=Fira+Code&size=26&pause=2500&color=FFFFFF&width=700"
-    alt="Hello Nkechi Queeneth Ogbuji"
-  />
-</p>
+# Hi, I'm Nkechi 👋
 
----
+ DevOps Engineer | AWS | Terraform | Agentic AI
 
-<sub>🟡 <strong>DevOps | Cloud Security | Learning by Building</strong></sub>
+I build secure, scalable cloud architectures and explore AI-driven automation using Agentic systems.
 
-<br/>
+##  What I'm Working On
+- AWS 3-tier architecture deployments
+- Infrastructure as Code with Terraform
+- Agentic AI for cloud automation
 
-<img src="https://komarev.com/ghpvc/?username=NkechiOgbuji&label=Profile%20Views&color=blue&style=flat" />
+##  Agentic AI Focus
+- Building AI agents for DevOps workflows
+- Automating infrastructure provisioning
+- Exploring AI-assisted deployments and monitoring
 
-<br/>
+##  Tech Stack
+- AWS (EC2, RDS, ALB, VPC)
+- Terraform
+- Linux
+- Node.js
+- GitHub Actions
+- AI Agents (Claude / LLM-based workflows)
+
+##  Featured Projects
+- AWS Book Review App (3-tier architecture)
+- Terraform AWS Infrastructure
+- Agentic DevOps Project
+
+## 📫 Let's Connect
+LinkedIn: www.linkedin.com/in/nkechiogbuji
 
 📍 **Location:** Nigeria
 
